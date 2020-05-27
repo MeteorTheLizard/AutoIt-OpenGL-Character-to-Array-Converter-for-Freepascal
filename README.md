@@ -2,6 +2,8 @@
 
 This is a neat little tool that allows you to create custom characters that are automatically converted into Freepascal code to use with OpenGL.
 
+<img align="center" src="https://i.imgur.com/MOHGRd4.png" />
+
 ## Using the script
 
 - Simply start the program like any other and start using it!
