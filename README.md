@@ -4,7 +4,7 @@ This is a neat little tool that allows you to create custom characters that are 
 
 ## Using the script
 
-Simply start the program like any other and start using it!
+- Simply start the program like any other and start using it!
 
 ## Editing the script
 
